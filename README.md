@@ -18,6 +18,8 @@
 - [Github Release](https://github.com/oxygen-dioxide/opensynth-backup/releases)
 - [Gitee Release](https://gitee.com/oxygendioxide/opensynth-backup/releases)
 - [阿里云盘](https://www.aliyundrive.com/s/BUWc3ayCsaw)（由于阿里云盘分享限制，为自解压文件）
+- [腾讯微云](https://share.weiyun.com/hJZM8Ken)
+- [Onedrive](https://1drv.ms/u/s!AgZK3YWSBqjhnXmxeoSCbC9yNGGP?e=LI7JAh)
 
 ## 协议
 自制歌声合成引擎wiki使用[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)协议。
